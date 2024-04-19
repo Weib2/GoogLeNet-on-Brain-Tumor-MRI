@@ -10,3 +10,7 @@ How to run the code:
 4.Install jupter notebook.
 5.And you should be able to run.
 
+
+The GoogLeNet Mordel is base on the: Le, K. (2023, December 19). Implementation of GoogLeNet on Keras - Khuyen Le - Medium. Medium. https://lekhuyen.medium.com/implementation-of-googlenet-on-keras-d9873aeed83c
+Because I could't found any GoogLeNet is not pretrained. So I followed on the build. 
+For the data input and preprocessing part, I have done a lot of reaserch, most of them builds the similar, so I made some of the steps to make it faster and turned to my own code. 
